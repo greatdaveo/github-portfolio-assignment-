@@ -1,5 +1,7 @@
-# ALt school exam-project : HOSTED URL: 
+# ALt school exam-project : HOSTED URL: https://joyful-sopapillas-52fc41.netlify.app/
 
-implementing an Api fetch on github user portfolio, shwing a page with list of all repositories.
+The implementation of GitHub portfolio APi that shows user repositories.
+
+The Hosted URL: https://joyful-sopapillas-52fc41.netlify.app/
 
 
