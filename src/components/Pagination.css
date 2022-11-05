@@ -1,0 +1,36 @@
+nav{
+    margin: 0 auto;
+    /* background-color: #171515; */
+}
+
+.page{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.page-item{
+    border: 1px solid white;
+    padding: 0 20px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.page-item:hover{
+    background-color: green;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.move{
+    color: green;
+    text-decoration: none;
+    margin-right: 2px;
+    font-size: 20px;
+    font-weight: 700;
+}
