@@ -1,0 +1,8 @@
+.home {
+    background-color: #171515;
+}
+
+.user-page{
+    display: flex;
+    flex-wrap: wrap;
+}

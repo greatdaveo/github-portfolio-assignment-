@@ -1,0 +1,60 @@
+.overview-bio {
+  background-color: #171515;
+  color: #fff;
+  border: 0.5px solid rgb(86, 84, 84);
+  border-radius: 6px;
+  padding: 20px;
+  height: 500px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.overview-bio .overview-bio-info p {
+  padding: 10px 0;
+  color: grey;
+}
+
+.overview-bio .line-one {
+  margin-top: 20px;
+}
+
+.overview-bio .overview-button {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.overview-bio .overview-button button {
+  margin-right: 3px;
+  cursor: pointer;
+  padding: 8px;
+  width: 20%;
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.overview-bio .overview-button .button-one {
+  background-color: #6773e5;
+}
+
+.overview-bio .overview-button .button-two {
+  background-color: #007ec6;
+}
+
+.overview-bio .overview-button .button-three {
+  background-color: #1ca0f1;
+}
+
+.overview-bio .summary-info h5 {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.overview-bio .summary-info ul li {
+  margin-top: 8px;
+}
+
+.overview-bio .line-two {
+  margin-top: 40px;
+  border: none;
+}

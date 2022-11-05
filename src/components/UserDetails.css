@@ -1,0 +1,22 @@
+.page-info {
+  flex: 0.2;
+  margin-right: 30px;
+}
+
+.icon-info {
+  text-align: center;
+  align-items: center;
+  display: flex;
+}
+
+.icon-info:hover {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}

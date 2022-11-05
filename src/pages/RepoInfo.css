@@ -1,0 +1,29 @@
+.repo-info {
+  background-color: rgb(18, 18, 34);
+  color: white;
+}
+
+.public-details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.more {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.more-details {
+  flex: 0.8;
+  cursor: pointer;
+  color: orange;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: bolder;
+}
